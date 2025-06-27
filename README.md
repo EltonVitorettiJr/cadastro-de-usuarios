@@ -25,6 +25,14 @@ Esse é um projeto fullstack de cadastro, listagem e armazenamento de usuários.
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
 - [JavaScript](https://www.w3schools.com/js/)
+- [Yarn](https://yarnpkg.com/)
+- [React](https://react.dev/)
+- [NodeJS](https://nodejs.org/pt)
+- [Vite](https://vite.dev/)
+- [Prisma](https://www.prisma.io/)
+- [Axios](https://www.npmjs.com/package/axios)
+- [MongoDB](https://www.mongodb.com/)
+- [StyledComponents](https://styled-components.com/)
 
 # :bug: Problemas
 
