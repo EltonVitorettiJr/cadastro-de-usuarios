@@ -16,7 +16,7 @@
 
 # :boy: Sobre o Projeto
 
-Esse é um projeto fullstack de cadastro, listagem e armazenamento de usuários. A aplicação conta também com responsividade para se adaptar na maioria dos diferentes tamanhos de telas.
+Esse é um projeto fullstack de cadastro, listagem e armazenamento de usuários com banco de dados. A aplicação conta também com responsividade para se adaptar na maioria dos diferentes tamanhos de tela.
 
 <br>
 
