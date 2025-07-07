@@ -8,15 +8,13 @@ const app = express()
 app.use(express.json())
 app.use(cors())
 
-app.get(`/`, (req, res) => {
-    res.redirect(`/usuarios`)
-})
+app.get(`/`)
 
 app.get(`/usuarios`, async (req, res) => {
 
     const users = await prisma.user.findMany()
 
-    res.status(200).json(users)
+    res.status(201).json(users)
 
 })
 
