@@ -22,7 +22,7 @@ app.get(`/usuarios`, async (req, res) => {
 
 app.delete(`/usuarios/:id`, async (req, res) => {
 
-    await prisma.user.deleteMany({
+    await prisma.user.delete({
 
         where: {
             
